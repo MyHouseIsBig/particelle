@@ -3,6 +3,6 @@
 /* ----------------------------------------------- */
 
 /* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
-particlesJS.load('particelle', '/js/particles/particlesjs-config.json', function() {
+particlesJS.load('particelle', 'https://myhouseisbig.github.io/particelle/particlesjs-config.json', function() {
   console.log('particles.js loaded - callback');
 });
